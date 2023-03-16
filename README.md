@@ -24,6 +24,8 @@ I'm a curious and creative learner who is passionate about exploring new ideas a
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <br />
 
+### 
+[ { learning_mode : ✅ } , {  duration : ♾️ } ]
 <!--
 **andrewp8/andrewp8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
