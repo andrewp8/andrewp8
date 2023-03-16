@@ -1,8 +1,9 @@
 # 👋😄! I'm Andrew Pham. Welcome to my Github!
 
-<img width="80px" style="margin:5%auto;" src="https://photos.app.goo.gl/Ud9APHUeq8SjMq5T7"/>
+![myEmoji](https://user-images.githubusercontent.com/69804999/225754758-85f0fdea-095b-45de-9f5a-2a756ea948b4.gif)
 
-**`Full Stack Developer` 
+
+**Full Stack Developer** 
 
 I'm a curious and creative learner who is passionate about exploring new ideas and technologies in the tech industry. Approach each project with excitement and enthusiasm, always looking for ways to innovate and improve.
 
