@@ -1,7 +1,6 @@
 # 👋😄! I'm Andrew Pham. Welcome to my Github!
 
-![myEmoji](https://user-images.githubusercontent.com/69804999/225754758-85f0fdea-095b-45de-9f5a-2a756ea948b4.gif | width=100)
-
+<img alt="my emoji gif" width="100px" style="margin:2%auto" src="https://user-images.githubusercontent.com/69804999/225754758-85f0fdea-095b-45de-9f5a-2a756ea948b4.gif"/>
 
 **Full Stack Developer** 
 
@@ -26,6 +25,8 @@ I'm a curious and creative learner who is passionate about exploring new ideas a
 **andrewp8/andrewp8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+![myEmoji](https://user-images.githubusercontent.com/69804999/225754758-85f0fdea-095b-45de-9f5a-2a756ea948b4.gif | width=100)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
