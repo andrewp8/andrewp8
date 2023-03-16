@@ -1,6 +1,6 @@
 # 👋😄! I'm Andrew Pham. Welcome to my Github!
 
-<kbd> <img align="left" alt="my emoji gif" width="300px" style="border-radius:50" margin="5%" src="https://user-images.githubusercontent.com/69804999/225754758-85f0fdea-095b-45de-9f5a-2a756ea948b4.gif"/> </kbd>
+<img align="left" alt="my emoji gif" width="300px" src="https://user-images.githubusercontent.com/69804999/225754758-85f0fdea-095b-45de-9f5a-2a756ea948b4.gif"/>&nbsp;&nbsp;
 
 **Full Stack Developer** 
 
