@@ -1,8 +1,11 @@
 # 👋😄! I'm Andrew Pham. Welcome to my Github!
 
-<img align="left" alt="my emoji gif" width="300px" src="https://user-images.githubusercontent.com/69804999/225754758-85f0fdea-095b-45de-9f5a-2a756ea948b4.gif"/>
 
-**Full Stack Developer** 
+<p align="left" width="100%" style="margin:30px">
+<img align="left" alt="my emoji gif" width="300px" src="https://user-images.githubusercontent.com/69804999/225754758-85f0fdea-095b-45de-9f5a-2a756ea948b4.gif"/>
+</p>
+
+***Full Stack Developer***
 
 I'm a curious and creative learner who is passionate about exploring new ideas and technologies in the tech industry. Approach each project with excitement and enthusiasm, always looking for ways to innovate and improve.
 
@@ -26,9 +29,6 @@ I'm a curious and creative learner who is passionate about exploring new ideas a
 
 Here are some ideas to get you started:
 
-<p align="left" width="100%" style="margin:30px">
-
-</p>
 ![myEmoji](https://user-images.githubusercontent.com/69804999/225754758-85f0fdea-095b-45de-9f5a-2a756ea948b4.gif | width=100)
 
 - 🔭 I’m currently working on ...
