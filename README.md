@@ -2,7 +2,7 @@
 
 <img width="80px" style="margin:5%auto;" src="https://photos.app.goo.gl/Ud9APHUeq8SjMq5T7"/>
 
-\*\*`Full Stack Developer`
+**`Full Stack Developer` 
 
 I'm a curious and creative learner who is passionate about exploring new ideas and technologies in the tech industry. Approach each project with excitement and enthusiasm, always looking for ways to innovate and improve.
 
