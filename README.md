@@ -1,5 +1,3 @@
-##
-
 # 👋😄! I'm Andrew Pham. Welcome to my Github!
 
 <p align="center" width="100%">
