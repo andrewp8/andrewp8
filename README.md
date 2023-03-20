@@ -24,9 +24,6 @@ I'm a curious and creative learner who is passionate about exploring new ideas a
 <br />
 
 ##
-
-###  💭 Status
-[ { learning_mode : ✅ } , {  duration : ♾️ } ]
 <!--
 **andrewp8/andrewp8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
