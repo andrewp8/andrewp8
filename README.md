@@ -8,7 +8,7 @@ Welcome to my Github!
 
 I'm a curious and creative learner who is passionate about exploring new ideas and technologies in the tech industry. Approach each project with excitement and enthusiasm, always looking for ways to innovate and improve.
 
-"Future hoppy": Using my programming skill to plan, design, and built projects that solves my and could be other's real-life problems✨🤩✨
+"Future hoppy": Using my programming skill to plan, design, and built projects that solves my and could be other's life problems✨🤩✨
 
 ##
 
