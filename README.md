@@ -14,7 +14,7 @@ I'm a curious and creative learner who is passionate about exploring new ideas a
 
 ### 🤖 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/785/145/png-transparent-java-development-kit-software-development-kit-computer-programming-computer-icons-programming-language-icon-text-logo-computer-programming.png" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
